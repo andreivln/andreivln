@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreivln
-- 👀 I’m interested in web developmen
+- 👀 I’m interested in web development.
 - 🌱 I’m self-learning Python.
 - 💞️ I’m looking to collaborate on small-medium web projects
 - 📫 If you are in the same coding journey as mine, let's meet.
