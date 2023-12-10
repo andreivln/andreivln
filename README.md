@@ -1,7 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Valeanu Andrei
-======================================================================================================================================
-
-Backend Developer
+Hi 👋 My name is Valeanu Andrei
 -----------------
 
 Highly driven Back-End Developer who is passionate about creating outstanding digital experiences. Passionate about anything tech-related and its ever-evolving nature and constantly seeking out new technologies and challenges, willing to learn and grow as a developer.
